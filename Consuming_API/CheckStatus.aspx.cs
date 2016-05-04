@@ -69,7 +69,7 @@ namespace Consuming_API
 
                 //try
                 //{
-                //    Label5.Text = jsonresponse.type.ToString();
+                //    Label5.Text = "Type is :   " + jsonresponse.type.ToString();
                 //}
                 //catch (Exception ee)
                 //{
