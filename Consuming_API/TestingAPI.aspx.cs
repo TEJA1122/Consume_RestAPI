@@ -49,7 +49,7 @@ namespace Consume_RestAPI
                 ""birth_state"": ""SA"",
                 ""birth_country"": ""AUS"",
                 ""sex"": ""M"",
-                ""email"": ""john.smith@example.com"",
+                ""email"": ""teja@skysystems.com.au"",
                 ""resid"": {
                             ""street"": ""1 Something street"",
                     ""suburb"": ""Adelaide"",
